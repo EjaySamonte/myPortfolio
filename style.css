@@ -149,7 +149,7 @@ span {
     width: 30vw;
     height: 75vh;
     margin-right: 2rem;
-    border-radius: 2rem;
+    border-radius: 50%;
 }
 
 .heading {
